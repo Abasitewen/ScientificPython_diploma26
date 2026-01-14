@@ -12,3 +12,20 @@ January 12-16
  - control flow
  - functions
  - exercises 
+
+#### Tuesday : 10:00 - 13:00; 14:00 - 18:00
+  
+  - sympy
+  - numpy
+  - scipy
+  - matplotlib
+  - decorators
+  - exercises
+
+
+#### Wednesday :
+
+  - scripts
+  - classes
+  - Exercises
+
